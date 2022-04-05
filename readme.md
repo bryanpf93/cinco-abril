@@ -4,3 +4,4 @@ es el comando que le dice a tu git local que recupere la última información de
 git pull por otro lado hace eso Y trae (copia) esos cambios del repositorio remoto.
 
 prueba conflictos 2
+prueba conflictos 1
